@@ -14,7 +14,7 @@ Removed all instances of "spikes"
 Changed all instances of "spiked=true" to false
 Changed all instances of a laser's "isOn="true" to false
 
-Tested through two sections (collections of levels interrupted by cutscenes), and appears to work without major issue.
+Tested through entire game and appears to work without major issue.
 
 The most notable minor issue is that spikes no longer line certain ceilings and floors, and in most instances this will still kill the player whenever there is an invisible wall from an adjoining level blocking the character's momentum; however, in places where there is no impeding wall, the player can slip through to levels and cause unintended issues -- e.g. I came to an in-level character interaction from an unintended path and caused an event to not trigger and then got stuck trying to exit the scene via the wrong path.
 
