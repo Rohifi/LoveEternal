@@ -10,9 +10,9 @@ This mod simply removes all spikes and lasers from the game.
 v1
 
 Used Notepad++ to simply find/replace all danger elements.
-Removed all instances of "spikes"
-Changed all instances of "spiked=true" to false
-Changed all instances of a laser's "isOn="true" to false
+-Removed all instances of "spikes"
+-Changed all instances of "spiked=true" to false
+-Changed all instances of a laser's "isOn="true" to false
 
 Tested through entire game and appears to work without major issue.
 
